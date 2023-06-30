@@ -2,7 +2,7 @@
 using System.Text;
 using System.IO;
 
-namespace tanu3addcount
+namespace AddCountForTanuesa3
 {
     internal class Program
     {
